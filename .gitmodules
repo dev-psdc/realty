@@ -1,0 +1,4 @@
+[submodule "dev-psdc/paguel-facil"]
+	path = dev-psdc/paguel-facil
+	url = git@github.com:dev-psdc/paguel-facil.git
+	branch = master
